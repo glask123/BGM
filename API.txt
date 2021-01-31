@@ -1,0 +1,7 @@
+https://api.covidtracking.com/v1/states/ca/current.json
+
+https://data.cdc.gov/resource/saz5-9hgg.json?jurisdiction=California
+    important fields: total_pfizer_allocation_first_dose_shipments
+
+https://data.cdc.gov/resource/b7pe-5nws.json?jurisdiction=California
+    important fields: total_pfizer_allocation_first_dose_shipments

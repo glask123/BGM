@@ -6,7 +6,7 @@ const UserSchema = mongoose.Schema({
         required: true,
     },
     vaxTier: Number,
-    createdDate: Date.now,
+    createdDate: Date,
 });
 
 module.exports = mongoose.model('Users', UserSchema);
