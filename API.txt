@@ -4,4 +4,6 @@ https://data.cdc.gov/resource/saz5-9hgg.json?jurisdiction=California
     important fields: total_pfizer_allocation_first_dose_shipments
 
 https://data.cdc.gov/resource/b7pe-5nws.json?jurisdiction=California
-    important fields: total_pfizer_allocation_first_dose_shipments
+    important fields: total_moderna_allocation_first_dose_shipments
+
+https://covid-19-testing.github.io/locations/:state/complete.json
